@@ -1,0 +1,15 @@
+body{
+    font-family: comic 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.site-heading-lower{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mb-3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.changefontcolor{
+    color: black !important;
+}
+.intro{
+    box-shadow: 5px 5 px 10px rgba(red, green, blue, alpha);
+}
